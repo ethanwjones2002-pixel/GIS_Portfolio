@@ -23,7 +23,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 #### Projects
 - [Old Growth Identification Within Missoula County (Current)](#old-growth-identification-within-missoula-county)
 - [Visualiztion of Missoula's Camping Regulations](#visualization-ofmissoula's-camping-regulations)
--- [Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation](#python-exploration-of-douglas-fir-beetle's-relation-to-tree-density-using-spatial-autocorrelation)
+- [Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation](#python-exploration-of-douglas-fir-beetle's-relation-to-tree-density-using-spatial-autocorrelation)
 - [Visualization of Missoula's Rattlesnake National Recreation Area](#visualization-of-missoula's-rattlesnake-national-recreation-area)
 
 ## Old Growth Identification Within Missoula County
