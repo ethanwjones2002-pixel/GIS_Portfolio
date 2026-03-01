@@ -61,10 +61,6 @@ This project demonstrates the ability to interpret rules and visualize them in m
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-
 
 
 ## Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation
