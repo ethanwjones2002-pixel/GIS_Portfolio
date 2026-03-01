@@ -20,7 +20,6 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 <br />
 <br />
 <br />
-<br />
 #### Projects
 - [Old Growth Identification Within Missoula County (Current)](#old-growth-identification-within-missoula-county)
 - [Visualiztion of Missoula's Camping Regulations](#visualization-ofmissoula's-camping-regulations)
@@ -46,9 +45,20 @@ This project demonstrates my ability to use python and its accompanying packages
 ## Visualization of Missoula's Camping Regulations
 <img align="left" 
      src="portfolio pictures/Screenshot 2026-03-01 144626.png" 
-     style="width:300px;">
+     style="width:500px;">
 
-This project's focus was on interpreting the camping rules passed by the city of Missoula (which can be found [here](https://www.ci.missoula.mt.us/DocumentCenter/View/36504/Municipal-Code-Title-12-Sts-Sdwlks--Pub-Places-Word-Doc#Streets_12_60_30)). This was a group project which lasted around 3 weeks and resulted in the creation of the static map above, as well as a ArcGIS dashboard which can be found on the project overview [here](projects/Fors_Apps_of_GIS_Project1.pdf)
+This project's focus was on interpreting the camping rules passed by the city of Missoula (which can be found [here](https://www.ci.missoula.mt.us/DocumentCenter/View/36504/Municipal-Code-Title-12-Sts-Sdwlks--Pub-Places-Word-Doc#Streets_12_60_30)). This was a group project which lasted around 3 weeks and resulted in the creation of the static map above, as well as a ArcGIS dashboard which can be found on the project overview [here](projects/Fors_Apps_of_GIS_Project1.pdf).
+<br />
+
+This project demonstrates the ability to interpret rules and visualize them in multiple ways.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ## Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation
 
