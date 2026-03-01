@@ -66,6 +66,8 @@ This project demonstrates the ability to interpret rules and visualize them in m
 ## Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation
 In this project, my goal was to utilize USDA datasets involving insects and diseases to determine if tree density was a factor in damage to forests. This project was somewhat lengthy and involved two iterations: one with zonal stats, and the other with spatial autocorrelation.
 <br />
-To view these projects download the HTMLs for [interation 1 here](projects/Project_3_Focal_Stats_Iteration1.html) and [interation 2 here](projects/Project_3_Moran'sI_Iteration2.html).
+To view these projects and their data sources download the HTMLs for [interation 1 here](projects/Project_3_Focal_Stats_Iteration1.html) and [interation 2 here](projects/Project_3_Moran'sI_Iteration2.html).
+<br />
+One key skill that this project demonstrates is the versitle use of python to explore possible hypotheses.
 
 ## Visualization of Missoula's Rattlesnake National Recreation Area
