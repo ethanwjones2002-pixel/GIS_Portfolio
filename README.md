@@ -21,3 +21,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 <br />
 <br />
 #### Current Projects
+- [SilvX Labs Old Growth Identification within Missoula County (Current)]()
+- [Visualiztion of Missoula's Camping regulations within its city limits]()
+- [Python Exploration of Douglas-fir Beetle's Relation to Tree Density]()
+- [Visualization of Missoula's Rattlesnake National Recreation Area]()
