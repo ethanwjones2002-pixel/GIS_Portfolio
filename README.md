@@ -29,6 +29,9 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 <br />
 
 ## Old Growth Identification Within Missoula County
+In my most recent (and ongoing) project, I was tasked with analyzing and validating a model that SilvX Labs (a forestry consulting company located within Missoula) created to identify old-growth forests within Missoula County. As an intern, I created a script that indentified clusters of perdiction values, based on basal area per acre, that fell within the old-growth and intermediate-growth ranges. Then, I created plot locations on these clusters to validate SilvX's predictions. The next steps in the project are to go out into the field and collect data like species, DBH, and condition for each plot created and gauge model performance with more python analysis.
+<br />
+You can view the progress of the project [here]().
 
 ## Visualization of Missoula's Camping Regulations
 
