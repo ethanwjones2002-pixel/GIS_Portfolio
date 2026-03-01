@@ -38,7 +38,6 @@ In my most recent (and ongoing) project, I was tasked with analyzing and validat
 
 You can view the progress of the project [here](projects/SilvX_Labs_Internship_Data.ipynb).
 <br />
-<br />
 
 This project demonstrates my ability to use python and its accompanying packages to complete complex tasks from scratch.
 <br />
