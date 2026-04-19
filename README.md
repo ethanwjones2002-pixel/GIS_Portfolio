@@ -25,7 +25,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
   
 - [Visualizing Change: the Lolo Peak Wildfire](#visualizing-change-the-lolo-peak-wildfire)
 
-- [An Exploration of Mt. Everest and Least Cost Path Creation](#visualizing-change-the-lolo-peak-wildfire)
+- [An Exploration of Mt. Everest and Least Cost Path Creation](#an-exploration-of-mt-everest-and-least-cost-path-creation)
   
 <br />
 
