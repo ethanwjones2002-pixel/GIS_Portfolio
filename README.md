@@ -19,7 +19,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 <br />
 
 ## Projects
-- [Old Growth Identification Within Missoula County (Current)](#old-growth-identification-and-validation-within-missoula-county)
+- [Old Growth Identification Within Missoula County](#old-growth-identification-and-model-validation-within-missoula-county)
   
 - [Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation](#python-exploration-of-douglas-fir-beetles-relation-to-tree-density-using-spatial-autocorrelation)
   
