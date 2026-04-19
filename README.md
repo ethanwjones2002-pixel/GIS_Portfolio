@@ -14,8 +14,6 @@ At the time of making this portfolio, I am a senior at The University of Montana
 In my future endevors, I hope to continue to use GIS skills to explore and analyze problems relating to the forestry world. Following graduation, I plan on working for Weyerhaeuser at their St. Helens tree farm in Washington as an Intern.
 
 <br />
-
-(planning on adding more sustinance in the final draft here)
 <br />
 <br />
 <br />
