@@ -2,7 +2,6 @@
 Hello, and welcome to my GIS GitHub portfolio! Below you can find some of the GIS related projects that I've undertaken within the past 4 years of schooling at The University of Montana. 
 <br />
 
-Feel free to take a look at my [resume](resume/Ethan_Jones_Resume.pdf)!
 ## About Me...
 <img align="left" 
      src="portfolio pictures/Screenshot 2026-03-01 131537.png" 
