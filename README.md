@@ -55,10 +55,10 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 
 ### Model Validation
 <div align="center">
-  <img src="portfolio pictures/BAacre Actual vs Predicted.png" width="220">
-  <img src="portfolio pictures/TPA Actual vs Predicted.png" width="220">
-  <img src="portfolio pictures/TPA Live Actual vs Predicted.png" width="220">
-  <img src="portfolio pictures/TPA Dead Actual vs Predicted.png" width="220">
+  <img src="portfolio pictures/BAacre Actual vs Predicted.png" width="250">
+  <img src="portfolio pictures/TPA Actual vs Predicted.png" width="250">
+  <img src="portfolio pictures/TPA Live Actual vs Predicted.png" width="250">
+  <img src="portfolio pictures/TPA Dead Actual vs Predicted.png" width="250">
 </div>
 
 <br>
