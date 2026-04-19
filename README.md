@@ -92,7 +92,7 @@ To view these projects and their data sources download the HTMLs for [interation
 ## Visualizing Change: the Lolo Peak Wildfire
 StoryMap Link: https://arcg.is/1ySKn93 (must have access to an ArcGIS account to view)
 
-In this project, a group and I decided to explore and visualize change using wildfire data from the Lolo Peak Fire in 2017.
+In this project, a group and I decided to explore and visualize change using [wildfire data](https://giscenter.isu.edu/styler/?appid=90212d475d044f159f286fb0e1a3980c) from the Lolo Peak Fire in 2017.
 <br />
 
 ## An Exploration of Mt. Everest and Least Cost Path Creation
