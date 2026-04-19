@@ -36,43 +36,21 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
      
 In my most recent project, I was tasked with analyzing and validating a model that SilvX Labs (a forestry consulting company located within Missoula) created to identify old-growth forests within Missoula County. As an intern, I created a script that indentified clusters of prediction values, based on basal area per acre, that fell within the old-growth and intermediate-growth ranges. Then, I created plot locations on these clusters to validate SilvX's predictions. 
 
+<br />
+
 Following the creation of plots to validate SilvX's model, I went out into the field and conducted variable radius forest inventory on 29 plots across Missoula County. At each plot, I collected a latitude and longitude point at plot center using a GNSS reciever, then I collected tree species, DBH, and whether or not each tree was alive. 
 
+<img align="left" 
+     src="portfolio pictures/BAacre Actual vs Predicted.png" 
+     style="width:250px;">
+
+  <img src="portfolio pictures/TPA Actual vs Predicted.png" width="250" align="left">
+ 
+  <img src="portfolio pictures/TPA Live Actual vs Predicted.png" width="250" align="left">
+  
+  <img src="portfolio pictures/TPA Dead Actual vs Predicted.png" width="250" align="left">
+  
 At the conclusion of my inventory, I then compiled all plot level data into a master document to compare my collected data with SilvX's predictions. Currently, I am still working on the final validations and so far I have graphed my collected values verses SilvX's predictions. My next steps are to compare my collected data with the predictions using R Squared and Root Mean Squared Error.
-<div>
-  <img src="portfolio pictures/BAacre Actual vs Predicted.png" width="200" align="left">
-  <p>
-  </p>
-  <div style="clear: both;"></div>
-</div>
-
-<div>
-  <img src="portfolio pictures/TPA Actual vs Predicted.png" width="200" align="left">
-  <p>
-  </p>
-  <div style="clear: both;"></div>
-</div>
-
-<div>
-  <img src="portfolio pictures/TPA Live Actual vs Predicted.png" width="200" align="left">
-  <p>
-  </p>
-  <div style="clear: both;"></div>
-</div>
-
-<div>
-  <img src="portfolio pictures/TPA Dead Actual vs Predicted.png" width="200" align="left">
-  <p>
-  </p>
-  <div style="clear: both;"></div>
-</div>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 You can view the progress of the project [here](projects/SilvX_Labs_Internship_Data.ipynb).
 <br />
