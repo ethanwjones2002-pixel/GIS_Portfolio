@@ -8,7 +8,10 @@ Feel free to take a look at my [resume](resume/Ethan_Jones_Resume.pdf)!
      src="portfolio pictures/Screenshot 2026-03-01 131537.png" 
      style="width:300px;">
 
-At the time of making this portfolio, I am a senior at The University of Montana earning a bachelor's degree in Foresty, a minor in business administration, a minor in fire science and management, and a certificate in GIS. I was first introduced to the power of GIS through an introductory class my sophmore year, and since then I have delved even deeper into the realm of GIS. My most recent work involves mostly python analysis, which can be viewed below at my [projects](#projects) section.
+At the time of making this portfolio, I am a senior at The University of Montana earning a bachelor's degree in Foresty, a minor in business administration, a minor in fire science and management, and a certificate in GIS. I was first introduced to the power of GIS through an introductory class my sophmore year, and since then I have delved even deeper into the realm of GIS. 
+<br />
+
+My most recent work involves mostly python analysis, which can be viewed below at my [projects](#projects) section. Besides an emphasis on Python use, I have also leveraged the use of GIS applications like ArcGIS Pro and QGIS to conduct various types of geospatial investigations. In some of my other recent projects, a team and I used ESRI's various platforms to explore change relating to wildfires and even create least cost paths to the top of Mt. Everest. You may also view these projects below at my [projects](#projects) section.
 <br />
 
 In my future endevors, I hope to continue to use GIS skills to explore and analyze problems relating to the forestry world. Following graduation, I plan on working for Weyerhaeuser at their St. Helens tree farm in Washington as an Intern.
