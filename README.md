@@ -17,8 +17,6 @@ My most recent work involves mostly python analysis, which can be viewed below a
 In my future endevors, I hope to continue to use GIS skills to explore and analyze problems relating to the forestry world. Following graduation, I plan on working for Weyerhaeuser at their St. Helens tree farm in Washington as an Intern.
 
 <br />
-<br />
-
 
 #### Projects
 - [Old Growth Identification Within Missoula County (Current)](#old-growth-identification-within-missoula-county)
