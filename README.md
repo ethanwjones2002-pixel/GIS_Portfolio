@@ -53,7 +53,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
   <div style="clear: both;"></div>
 </div>
 
-### Model Validation Results
+### Model Validation
 <div align="center">
   <img src="portfolio pictures/BAacre Actual vs Predicted.png" width="220">
   <img src="portfolio pictures/TPA Actual vs Predicted.png" width="220">
