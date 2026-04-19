@@ -102,4 +102,14 @@ In this project, a group and I decided to explore and visualize change using [wi
 <br />
 
 ## An Exploration of Mt. Everest and Least Cost Path Creation
+Experience Builder Link: https://experience.arcgis.com/experience/b05870b4387e4e33b4c4237ba501d595 (must have access to an ArcGIS account to view)
+
+<div>
+  <img src="portfolio pictures/Everest 3D.png"
+       width="1000"
+       style="float:left; margin-right:20px; margin-bottom:10px;">
+       
+  <p>
+       
+In this project a group and I explored the use of least cost paths and, in the process, created some for Mt. Everest based on some of our created cost layers. The workflows for identifying least cost paths were not familar to me before this project and helped to solidify this skill. We also incorporated ESRI's scene viewing applications to visualize our paths in a meaningful way.
 <br />
