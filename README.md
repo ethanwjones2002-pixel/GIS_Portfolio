@@ -88,7 +88,6 @@ In this project, my goal was to utilize [USDA datasets](https://www.fs.usda.gov/
 
 To view these projects and their data sources download the HTMLs for [interation 1 here](projects/Project_3_Focal_Stats_Iteration1.html) and [interation 2 here](projects/Project_3_Moran'sI_Iteration2.html).
 <br />
-One key skill that this project demonstrates is the versitle use of python to explore possible hypotheses.
 
 ## Visualizing Change: the Lolo Peak Wildfire
 <br />
