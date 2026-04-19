@@ -26,6 +26,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 - [Visualizing Change: the Lolo Peak Wildfire](#visualizing-change-the-lolo-peak-wildfire)
 
 - [An Exploration of Mt. Everest and Least Cost Path Creation](#visualizing-change-the-lolo-peak-wildfire)
+  
 <br />
 
 ## Old Growth Identification Within Missoula County
@@ -51,4 +52,7 @@ To view these projects and their data sources download the HTMLs for [interation
 One key skill that this project demonstrates is the versitle use of python to explore possible hypotheses.
 
 ## Visualizing Change: the Lolo Peak Wildfire
+<br />
+
+## An Exploration of Mt. Everest and Least Cost Path Creation
 <br />
