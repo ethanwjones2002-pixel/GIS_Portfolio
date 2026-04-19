@@ -76,6 +76,13 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 <br>
 
 ## Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation
+<div>
+  <img src="portfolio pictures/Moran's I.png"
+       width="1000"
+       style="float:left; margin-right:20px; margin-bottom:10px;">
+       
+  <p>
+
 In this project, my goal was to utilize [USDA datasets](https://www.fs.usda.gov/science-technology/forest-health-protection/publications-reports/forest-health-monitoring-publications/annual-national-forest-health-monitoring-reports) involving insects and diseases to determine if tree density was a factor in damage to forests. This project was somewhat lengthy and involved two iterations: one with zonal stats, and the other with spatial autocorrelation.
 <br />
 
