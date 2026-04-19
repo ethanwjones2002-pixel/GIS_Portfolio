@@ -56,7 +56,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 ### Model Validation
   At the conclusion of my inventory, I compiled all plot-level data into a master dataset to compare 
   my collected measurements with SilvX's predictions. I am currently completing final validation steps, 
-  including calculating R² and Root Mean Squared Error (RMSE) to quantify model performance.
+  including calculating R² and Root Mean Squared Error (RMSE) to quantify model performance. Because of the low amount of plots, errors are expected to be high.
 </p>
 
 <div align="center">
