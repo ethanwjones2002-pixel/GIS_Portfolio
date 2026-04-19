@@ -25,7 +25,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
   
 - [Visualizing Change: the Lolo Peak Wildfire](#visualizing-change-the-lolo-peak-wildfire)
 
-- [An Exploration of Mt. Everest and Least Cost Path Creation]()
+- [An Exploration of Mt. Everest and Least Cost Path Creation](#visualizing-change-the-lolo-peak-wildfire)
 <br />
 
 ## Old Growth Identification Within Missoula County
