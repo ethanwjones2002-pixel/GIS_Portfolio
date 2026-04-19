@@ -54,6 +54,11 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 </div>
 
 ### Model Validation
+  At the conclusion of my inventory, I compiled all plot-level data into a master dataset to compare 
+  my collected measurements with SilvX's predictions. I am currently completing final validation steps, 
+  including calculating R² and Root Mean Squared Error (RMSE) to quantify model performance.
+</p>
+
 <div align="center">
   <img src="portfolio pictures/BAacre Actual vs Predicted.png" width="300">
   <img src="portfolio pictures/TPA Actual vs Predicted.png" width="300">
@@ -63,11 +68,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 
 <br>
 <p>
-  At the conclusion of my inventory, I compiled all plot-level data into a master dataset to compare 
-  my collected measurements with SilvX's predictions. I am currently completing final validation steps, 
-  including calculating R² and Root Mean Squared Error (RMSE) to quantify model performance.
-</p>
-
+     
 <p>
   You can view the progress of the project 
   <a href="projects/SilvX_Labs_Internship_Data.ipynb">here</a>.
