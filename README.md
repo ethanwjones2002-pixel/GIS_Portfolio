@@ -19,7 +19,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
 <br />
 
 ## Projects
-- [Old Growth Identification Within Missoula County (Current)](#old-growth-identification-within-missoula-county)
+- [Old Growth Identification Within Missoula County (Current)](#old-growth-identification-and-validation-within-missoula-county)
   
 - [Python Exploration of Douglas-fir Beetle's Relation to Tree Density using Spatial Autocorrelation](#python-exploration-of-douglas-fir-beetles-relation-to-tree-density-using-spatial-autocorrelation)
   
@@ -29,18 +29,19 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
   
 <br />
 
-## Old Growth Identification Within Missoula County
+## Old Growth Identification and Model Validation Within Missoula County
 <img align="left" 
      src="portfolio pictures/Screenshot 2026-03-01 at 2.39.18 PM.png" 
      style="width:500px;">
      
-In my most recent (and ongoing) project, I was tasked with analyzing and validating a model that SilvX Labs (a forestry consulting company located within Missoula) created to identify old-growth forests within Missoula County. As an intern, I created a script that indentified clusters of prediction values, based on basal area per acre, that fell within the old-growth and intermediate-growth ranges. Then, I created plot locations on these clusters to validate SilvX's predictions. The next steps in the project are to go out into the field and collect data like species, DBH, and condition for each plot created and gauge model performance with more python analysis.
+In my most recent project, I was tasked with analyzing and validating a model that SilvX Labs (a forestry consulting company located within Missoula) created to identify old-growth forests within Missoula County. As an intern, I created a script that indentified clusters of prediction values, based on basal area per acre, that fell within the old-growth and intermediate-growth ranges. Then, I created plot locations on these clusters to validate SilvX's predictions. 
+
+Following the creation of plots to validate SilvX's model, I went out into the field and conducted variable radius forest inventory on 29 plots across Missoula County. At each plot, I collected a latitude and longitude point at plot center using a GNSS reciever, then I collected tree species, DBH, and whether or not each tree was alive. 
+
+At the conclusion of my inventory, I then compiled all plot level data into a master document to compare my collected data with SilvX's predictions. Currently, I am still working on the final validations and so far I have graphed my collected values verses SilvX's predictions. My next steps are to compare my collected data with the predictions using R Squared and Root Mean Squared Error.
 <br />
 
 You can view the progress of the project [here](projects/SilvX_Labs_Internship_Data.ipynb).
-<br />
-
-This project demonstrates my ability to use python and its accompanying packages to complete complex tasks from scratch.
 <br />
 <br />
 
