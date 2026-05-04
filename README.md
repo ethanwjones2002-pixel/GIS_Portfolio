@@ -70,7 +70,7 @@ In my future endevors, I hope to continue to use GIS skills to explore and analy
      
 <p>
   You can view the progress of the project 
-  <a href="projects/SilvX_Labs_Internship_Data.ipynb">here</a>.
+  <a href="projects/SilvXLabs_ValidationScript.ipynb">here</a>.
 </p>
 <br>
 
